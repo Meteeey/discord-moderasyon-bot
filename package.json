@@ -1,0 +1,17 @@
+{
+  "name": "Metehan",
+  "version": "0.0.1",
+  "description": "Metehan",
+  "main": "mete.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Metehan",
+  "license": "MIT",
+  "dependencies": {
+    "croxydb": "^0.0.26",
+    "discord.js": "^14.18.0",
+    "moment": "^2.30.1",
+    "moment-duration-format": "^2.3.2"
+  }
+}
